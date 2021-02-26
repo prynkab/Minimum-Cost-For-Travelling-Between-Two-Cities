@@ -1,5 +1,5 @@
 # Shortest Path Between Two Cities And Minimum Cost 
-This project calculates the minimum cost requuired to travel from any starting city to the rest of the city and the path required.  
+This project calculates the minimum cost required to travel from any starting city to the rest of the city and the path required.  
 
 Objectives:  
   - Implement a data structure to meet given specifications
