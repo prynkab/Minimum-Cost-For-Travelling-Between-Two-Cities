@@ -3,7 +3,7 @@ This project calculates the minimum cost required to travel from any starting ci
 
 Objectives:  
   - Implement a data structure to meet given specifications
-  - Design, implement, and use djikstra's algorithm to code  
+  - Design, implement, and use dijkstra's algorithm to code  
 
 Aim: To implement djikstra's algorithm to find the minimum cost required to travel between two cities and the required path.  
 
